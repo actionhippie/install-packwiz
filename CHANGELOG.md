@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/actionhippie/install-packwiz/compare/v1.0.0...v1.0.1) (2024-01-17)
+
+
+### Bugfixes
+
+* use sudo to download into path ([921f4e4](https://github.com/actionhippie/install-packwiz/commit/921f4e4c7876a01af2ebbbe0e0a9039c36d3fccc))
+
 ## 1.0.0 (2024-01-17)
 
 
