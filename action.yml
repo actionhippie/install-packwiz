@@ -1,0 +1,15 @@
+---
+name: 'install-packwiz'
+description: 'Install the Packwiz binary'
+author: 'actionhippie'
+
+runs:
+  using: 'composite'
+
+  steps:
+    - name: Download latest binary
+      shell: bash
+      run: |
+        curl -sSLo /usr/local/bin/packwiz https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+
+...
