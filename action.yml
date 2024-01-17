@@ -10,6 +10,7 @@ runs:
     - name: Download latest binary
       shell: bash
       run: |
-        curl -sSLo /usr/local/bin/packwiz https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+        sudo curl -sSLo /usr/local/bin/packwiz https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+        sudo chmod +x /usr/local/bin/packwiz
 
 ...
