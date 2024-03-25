@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/actionhippie/install-packwiz/compare/v1.0.2...v1.0.3) (2024-03-25)
+
+
+### Bugfixes
+
+* link to our own build of binary ([4b59a34](https://github.com/actionhippie/install-packwiz/commit/4b59a34190cabfaffac2a68b6cdf6fa820405050))
+
 ## [1.0.2](https://github.com/actionhippie/install-packwiz/compare/v1.0.1...v1.0.2) (2024-01-17)
 
 
