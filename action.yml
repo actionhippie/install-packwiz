@@ -12,7 +12,6 @@ runs:
       run: |
         curl -sSLo packwiz https://dl.webhippie.de/minecraft/packwiz/20240325/packwiz-linux-amd64 && \
           chmod +x packwiz && \
-          sudo mv packwiz /usr/local/bin/ && \
-          rm packwiz.zip
+          sudo mv packwiz /usr/local/bin/
 
 ...
