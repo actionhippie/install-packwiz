@@ -10,8 +10,7 @@ runs:
     - name: Download latest binary
       shell: bash
       run: |
-        curl -sSLo packwiz.zip https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip && \
-          unzip packwiz.zip && \
+        curl -sSLo packwiz https://dl.webhippie.de/minecraft/packwiz/20240325/packwiz-linux-amd64 && \
           chmod +x packwiz && \
           sudo mv packwiz /usr/local/bin/ && \
           rm packwiz.zip
