@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/actionhippie/install-packwiz/compare/v1.0.3...v1.0.4) (2024-03-25)
+
+
+### Bugfixes
+
+* there is no packwiz.zip anymore ([7190638](https://github.com/actionhippie/install-packwiz/commit/7190638e2b87baa64acf42fd65674f9f183577e6))
+
 ## [1.0.3](https://github.com/actionhippie/install-packwiz/compare/v1.0.2...v1.0.3) (2024-03-25)
 
 
