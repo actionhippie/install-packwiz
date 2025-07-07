@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/actionhippie/install-packwiz/compare/v1.0.4...v1.1.0) (2025-07-07)
+
+
+### Features
+
+* replace release workflow and add workflow langserver ref ([5037be9](https://github.com/actionhippie/install-packwiz/commit/5037be93922664f28ac59279637c236a0e0a1d78))
+
 ## [1.0.4](https://github.com/actionhippie/install-packwiz/compare/v1.0.3...v1.0.4) (2024-03-25)
 
 
