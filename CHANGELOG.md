@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/actionhippie/install-packwiz/compare/v1.1.0...v2.0.0) (2025-09-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* switch to nightly builds again
+
+### Features
+
+* switch to nightly builds again ([599cb21](https://github.com/actionhippie/install-packwiz/commit/599cb2188fb68cc329be256b157007aaf6ca810e))
+
 ## [1.1.0](https://github.com/actionhippie/install-packwiz/compare/v1.0.4...v1.1.0) (2025-07-07)
 
 
