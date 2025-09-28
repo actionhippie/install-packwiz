@@ -1,7 +1,11 @@
 ---
+# yaml-language-server: $schema=https://www.schemastore.org/github-action.json
 name: 'install-packwiz'
 description: 'Install the Packwiz binary'
 author: 'actionhippie'
+branding:
+  icon: award
+  color: green
 
 runs:
   using: 'composite'
